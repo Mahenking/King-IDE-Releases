@@ -1,0 +1,20 @@
+# 👑 King IDE — Official Releases
+
+Official binary releases for King IDE.
+
+## Auto-Update
+
+King IDE checks this repository for updates automatically. Do not modify.
+
+## Downloads
+
+Get the latest release from the [Releases](https://github.com/Mahenking/King-IDE-Releases/releases) page:
+
+- **Linux (.deb)** — Debian/Ubuntu installer
+- **Linux (.AppImage)** — Portable executable
+
+## License
+
+© 2026 King Technology. All rights reserved.
+
+King IDE is proprietary software. See LICENSE for details.
